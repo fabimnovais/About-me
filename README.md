@@ -1,7 +1,7 @@
 # ABOUT ME
 # @fabimnovais
 
-### Meu nome é Fabiana Novais, sou formada em Gestão Comercial, tenho experiência de 17 anos na área em cargos como Gerente de Vendas, Gerente Comercial e Supervisora de Vendas. Agora estou migrando para área de T.I., estou cursando Analise e Desenvolvimento de Sistemas, e estou em busca da minha primeira oportunidade na área por meio de um estágio. Sou muito dedicada e tenho muita vontade de aprender. Na faculdade já aprendi um pouco de Linguagem C e Python. Fico a disposição para mais informações! 
+### Meu nome é Fabiana Novais, sou formada em Gestão Comercial, tenho experiência de 17 anos na área em cargos como Gerente de Vendas, Gerente Comercial e Supervisora de Vendas. Agora estou migrando para área de T.I., estou cursando Analise e Desenvolvimento de Sistemas, e estou em busca da minha primeira oportunidade na área por meio de um estágio. Sou muito dedicada e tenho muita vontade de aprender. Fico a disposição para mais informações! 
 
 ## Conecte-se Comigo
 
