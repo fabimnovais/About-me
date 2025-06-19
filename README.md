@@ -1,7 +1,14 @@
 # ABOUT ME
 # @fabimnovais
 
-### Meu nome é Fabiana Novais, sou formada em Gestão Comercial, tenho experiência de 17 anos na área em cargos como Gerente de Vendas, Gerente Comercial e Supervisora de Vendas. Agora estou migrando para área de T.I., estou cursando Analise e Desenvolvimento de Sistemas, e estou em busca da minha primeira oportunidade na área por meio de um estágio. Sou muito dedicada e tenho muita vontade de aprender. Fico a disposição para mais informações! 
+🎓 Formada em Análise e Desenvolvimento de Sistemas | 📊 Experiência em Gestão Comercial
+💡 Estudando UX Design para unir tecnologia, empatia e estratégia nos produtos digitais.
+Com trajetória sólida na área comercial, trago uma visão centrada no cliente, focada em soluções práticas e viáveis para o negócio.
+
+✨ Em transição para o universo tech com propósito: desenvolver produtos que resolvam problemas reais de forma inteligente e intuitiva.
+📍 Brasil | 🚀 Aberta a conexões, aprendizados e novos desafios!
+
+
 
 ## Conecte-se Comigo
 
